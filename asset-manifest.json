@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arun-karthick0/remainder-app/static/css/main.341f30bd.css",
+    "main.js": "/arun-karthick0/remainder-app/static/js/main.418e657c.js",
+    "static/js/787.b12bd774.chunk.js": "/arun-karthick0/remainder-app/static/js/787.b12bd774.chunk.js",
+    "index.html": "/arun-karthick0/remainder-app/index.html",
+    "main.341f30bd.css.map": "/arun-karthick0/remainder-app/static/css/main.341f30bd.css.map",
+    "main.418e657c.js.map": "/arun-karthick0/remainder-app/static/js/main.418e657c.js.map",
+    "787.b12bd774.chunk.js.map": "/arun-karthick0/remainder-app/static/js/787.b12bd774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.341f30bd.css",
+    "static/js/main.418e657c.js"
+  ]
+}
